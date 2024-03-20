@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Korean.
 - 📫 How to reach me: bmle at g dot skku dot edu
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
+![Leetcode Stats](https://leetcard.jacoblin.cool/binhleminh0209)
